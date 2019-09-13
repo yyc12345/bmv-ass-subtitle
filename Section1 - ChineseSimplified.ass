@@ -10,13 +10,13 @@ PlayResX: 1280
 PlayResY: 800
 
 [Aegisub Project Garbage]
-Audio File: G:/BallanceMappingTutorialVideo/Ballance制图视频教程 (P1. 基础篇一——VT和3ds max及必备软件的下载和安装).mp4
-Video File: G:/BallanceMappingTutorialVideo/Ballance制图视频教程 (P1. 基础篇一——VT和3ds max及必备软件的下载和安装).mp4
+Audio File: Ballance制图视频教程 (P1. 基础篇一——VT和3ds max及必备软件的下载和安装).mp4
+Video File: Ballance制图视频教程 (P1. 基础篇一——VT和3ds max及必备软件的下载和安装).mp4
 Video AR Mode: 4
 Video AR Value: 1.600000
 Video Zoom Percent: 0.500000
-Scroll Position: 390
-Active Line: 412
+Scroll Position: 285
+Active Line: 289
 Video Position: 57020
 
 [V4+ Styles]
@@ -314,7 +314,7 @@ Dialogue: 0,0:24:45.40,0:24:46.96,Default,,0,0,0,,VR当然也用不到了啊
 Dialogue: 0,0:24:47.92,0:24:52.44,Default,,0,0,0,,如果你自己有兴趣想了解一下的呢，那完全可以自己去了解
 Dialogue: 0,0:24:54.82,0:24:59.62,Default,,0,0,0,,好，那同时啊，刚才还有一些东西没有说对吧
 Dialogue: 0,0:25:00.00,0:25:04.32,Default,,0,0,0,,这一个 素材.max，这还有一个 自制8关模板.nmo
-Dialogue: 0,0:25:05.06,0:25:07.12,Default,,0,0,0,,等会呢，咱们就会...
+Dialogue: 0,0:25:05.06,0:25:11.94,Default,,0,0,0,,等会呢，咱们就会...这两个东西就是咱们做地图需要用的模板啊
 Dialogue: 0,0:25:12.60,0:25:14.64,Default,,0,0,0,,还有两个东西没有装
 Dialogue: 0,0:25:14.98,0:25:19.64,Default,,0,0,0,,一个是这个Max_To_Virtools_5.0.0.134
 Dialogue: 0,0:25:19.64,0:25:24.74,Default,,0,0,0,,这个东西咱们必须要等到3ds Max安装完成以后才能安装，但是非常简单
@@ -375,11 +375,11 @@ Dialogue: 0,0:29:24.72,0:29:31.46,Default,,0,0,0,,因为咱们安装的这个就
 Dialogue: 0,0:29:32.14,0:29:33.18,Default,,0,0,0,,好，点这个
 Dialogue: 0,0:29:35.90,0:29:43.82,Default,,0,0,0,,这个...这个东西自带一个BGM啊，所以不要觉得出了什么问题啊
 Dialogue: 0,0:29:44.80,0:29:46.36,Default,,0,0,0,,然后咱们照着做就行了
-Dialogue: 0,0:29:47.12,0:29:50.16,Default,,0,0,0,,Click on Men Patch
+Dialogue: 0,0:29:47.12,0:29:50.16,Default,,0,0,0,,Click on Mem Patch
 Dialogue: 0,0:29:50.88,0:29:57.18,Default,,0,0,0,,随便点一下，他就成功地安装了这个Patch
 Dialogue: 0,0:29:59.58,0:30:01.40,Default,,0,0,0,,而且也看到了成功了对吧
 Dialogue: 0,0:30:01.96,0:30:11.92,Default,,0,0,0,,然后咱们可以复制这个，它这个Request这个一长串吧，到这个里面
-Dialogue: 0,0:30:15.84,0:30:19.74,Default,,0,0,0,,到这个里面，应该是再点一下
+Dialogue: 0,0:30:15.84,0:30:19.74,Default,,0,0,0,,到这个里面，应该是再点一下它
 Dialogue: 0,0:30:20.62,0:30:22.82,Default,,0,0,0,,就可以得到这个激活的这个码
 Dialogue: 0,0:30:24.40,0:30:25.48,Default,,0,0,0,,得到这个以后呢
 Dialogue: 0,0:30:27.94,0:30:31.44,Default,,0,0,0,,欸，我们看到终于要打开的对吧，我们选择激活
