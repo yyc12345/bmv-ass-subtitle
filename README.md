@@ -1,28 +1,45 @@
-# Ballance制图视频教程ASS字幕资源库
+# Ballance Mapping Tutorial Subtitle Repository
 
-## 简介
+## Introduction
 
-本项目旨在为这个视频系列：https://www.bilibili.com/video/av42590241 ，创建ASS字幕文档；并为每一份视频分别制作中文简体和英文的字幕。
+This project is working for this series of videos' translation: https://www.bilibili.com/video/av42590241 . Create ASS subtitle document and make Chinese and English subtitle for each videos.
 
-相关ASS文件里可能有一些绑定记录，不过我懒得去了，就放那了，下载下来要是提示找不到文件忽略就行了，因为没啥我的个人信息。如果你在编辑之后有涉及你的个人信息的部分，请手动修改文件以去除个人信息。
+Some ASS file may contain some absolute video path record. But I am lazy to change it. If you want to load your local video source, just change it freely. And if your commit message have some of your personal content, such as folder name, please remove it before your commit.
 
-欢迎一同来打轴，听写和翻译
+All contributions are welcome.
 
-许可证为：CC BY-SA 4.0
+License is `CC BY-SA 4.0`
 
-## 进度
+## Progress
 
-|分集|打轴|听写|翻译|
-|:---:|:---:|:---:|:---:|
-|Section 1|√|√|Working|
-|Section 2|√|√|×|
-|Section 3|√|×|×|
-|Section 4|√|×|×|
-|Section 5|×|×|×|
-|Section 6|×|×|×|
-|Section 7|×|×|×|
-|Section 8|×|×|×|
-|Section 9|×|×|×|
-|Section 10|×|×|×|
-|Section 11|×|×|×|
-|Section 12|×|×|×|
+|Section|Title (CN)|Video is released?|Timeline|Dictation|Translation|Subtitle is posted?|
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+|Basic chapter|-|-|-|-|-|-|
+|Section 1|VT和3ds max及必备软件的下载和安装|√|√|√|Working|×|
+|Section 2|制作地图的流程简介|√|√|√|×|√|
+|Section 3|3ds max的基础使用|√|√|×|×|×|
+|Section 4|Map Editor制作路面和导出|√|√|×|×|×|
+|Section 5|3ds max制作路面|√|×|×|×|×|
+|Section 6|3ds max制作钢轨|√|×|×|×|×|
+|Section 7|3ds max机关概述|√|×|×|×|×|
+|Section 8|3ds max地图的最后整合和导出|√|×|×|×|×|
+|Section 9|VT处理之物件归组及路面阴影|√|×|×|×|×|
+|Section 10|VT处理之材质和贴图问题|√|×|×|×|×|
+|Section 11|地图测试及发布|√|×|×|×|×|
+|Extra chapter|-|-|-|-|-|-|
+|Section 12|新版max素材和nmo模板的使用|√|×|×|×|×|
+|Section 13|自定义贴图的应用|√|×|×|×|×|
+|Section 14|max放样和布尔操作进阶|√|×|×|×|×|
+|Section 15|5.1版本max素材和nmo模板的使用|√|×|×|×|×|
+|Section 16|Ballance机关运作机制及变形技术|×|×|×|×|×|
+|Section 17|地图素材提取——vt2obj的使用|×|×|×|×|×|
+|Section 18|VT脚本入门——常用BB介绍|×|×|×|×|×|
+|Section 19|VT脚本进阶——函数的配合使用|×|×|×|×|×|
+|Section 20|13-5及其他创意钢轨的max制作|×|×|×|×|×|
+|Section 21|11-1及其他创意路面的max制作|×|×|×|×|×|
+|Section 22|VT基础元素介绍（重要）|×|×|×|×|×|
+|Section 23|制图常见问题处理——导出导入|×|×|×|×|×|
+|Section 24|制图常见问题处理——卡进度条|×|×|×|×|×|
+|Section 25|制图常见问题处理——路面问题|×|×|×|×|×|
+|Section 26|制图常见问题处理——钢轨问题|×|×|×|×|×|
+|Section 27|制图常见问题处理——机关问题|×|×|×|×|×|
